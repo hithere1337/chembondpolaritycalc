@@ -7,4 +7,4 @@ If there are any bugs or things that could have been done more efficiently, plea
 
 Thank you!
 
-Version 1.1: a bug was found that made all of the outputs equal to 0.
+Version 1.1: a bug was found that made all of the outputs equal to 0. Fixed on 10/12/2020.
